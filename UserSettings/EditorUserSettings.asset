@@ -12,19 +12,22 @@ EditorUserSettings:
       value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
       flags: 0
     RecentlyUsedSceneGuid-2:
-      value: 02500151060c0b0d5b565927132108444f4f4972782b7e612f2b4931e3b9626c
+      value: 5b520d0503545b0d0c0c0a2715770748154f4d2c7d7d7e627a7d4a35b4e1646a
       flags: 0
     RecentlyUsedSceneGuid-3:
-      value: 5a50045e06505a02555e582341725d4446164f282e2b20642e711e64bae56760
+      value: 07060356530c500f5c560f7a43225944144e4a7f2e2c71692b794d64e7b0323e
       flags: 0
     RecentlyUsedSceneGuid-4:
-      value: 5152025e060d0f5f5c56552614200b444616482e7d2c71357f714865b0e56d6c
+      value: 5a50045e06505a02555e582341725d4446164f282e2b20642e711e64bae56760
       flags: 0
     RecentlyUsedSceneGuid-5:
-      value: 5106575200015f5d08580f7a4972084447151d792d7871312f284561e3e3303b
+      value: 02500151060c0b0d5b565927132108444f4f4972782b7e612f2b4931e3b9626c
       flags: 0
     RecentlyUsedSceneGuid-6:
-      value: 5b520d0503545b0d0c0c0a2715770748154f4d2c7d7d7e627a7d4a35b4e1646a
+      value: 5106575200015f5d08580f7a4972084447151d792d7871312f284561e3e3303b
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 5152025e060d0f5f5c56552614200b444616482e7d2c71357f714865b0e56d6c
       flags: 0
     UnityEditor.ShaderGraph.Blackboard:
       value: 18135939215a0a5004000b0e15254b524c030a3f2964643d120d1230e9e93a3fd6e826abbd3c3e302a07a37e0901373ae01e0008f707250d171df81a53a5405d41895ac825e0100ec20313c0d91cddccd3d0c7efcca9bd80908fecb0f9cfddf1eff4e7a1b1eae482f0fdaee1e1928b86d888ed909c968797a7cf
@@ -53,3 +56,4 @@ EditorUserSettings:
   m_VCOtherOverlayIcons: 1
   m_VCAllowAsyncUpdate: 1
   m_ArtifactGarbageCollection: 1
+  m_CompressAssetsOnImport: 1
